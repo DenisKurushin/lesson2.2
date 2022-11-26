@@ -14,3 +14,6 @@ f
 
 
 *жир*
+4. miyagi
+git ad
+ git add m
